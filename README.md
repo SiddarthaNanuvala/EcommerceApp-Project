@@ -4,7 +4,7 @@ https://github.com/Confused-coder1919/EcommerceApp-Project
 
 ## Group Members
 - **Student 1**: Syed Mohammad Shah Mostafa (https://github.com/Confused-coder1919)
-- **Student 2**: Siddartha Nanuvala
+- **Student 2**: Siddartha Nanuvala (https://github.com/SiddarthaNanuvala)
 - **Student 3**: Shreeram Balaram
 
 ## Project Description
